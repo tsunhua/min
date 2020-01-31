@@ -13,6 +13,7 @@
 | 一只车   | tsi̍t--tsiah--tshia | 一辆车 |
 | 一杯茶 | tsi̍t--pue--tê | 一杯茶 |
 | 一碗水 | tsi̍t--uánn--tsuí | 一碗水 |
+| 一喙水 | tsi̍t--tshuì--tsuí | 一口水 |
 | 一条弓蕉 | tsi̍t--tiâu--king‑tsio | 一条香蕉 |
 | 一本冊 | tsi̍t--pún--tsheh | 一本书 |
 | 一支手机 | tsi̍t--ki--tshiú‑ki | 一只手机 |
