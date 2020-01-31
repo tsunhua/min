@@ -10,6 +10,7 @@
 | 一缚花 | tsi̍t--pa̍k--hue | 一束花 |
 | 一丛树 | tsi̍t--tsông--tshiū | 一棵树 |
 | 一模草 | tsi̍t--bôo--tsháu | 一棵草 |
+| 一簇头毛 | tsi̍t--tshok--thâu‑mn̂g | 一撮头发 |
 | 一粒糖 | tsi̍t--liap--thn̂g | 一颗糖 |
 | 一只车   | tsi̍t--tsiah--tshia | 一辆车 |
 | 一杯茶 | tsi̍t--pue--tê | 一杯茶 |
