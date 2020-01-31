@@ -10,7 +10,8 @@
 
 ## 用词/数量词
 
-* [数量](yong-ci-shu-liang-ci/shu-liang.md)
+* [数词](yong-ci-shu-liang-ci/shu-ci.md)
+* [量词](yong-ci-shu-liang-ci/liang-ci.md)
 
 ## 用词/时空天地
 
