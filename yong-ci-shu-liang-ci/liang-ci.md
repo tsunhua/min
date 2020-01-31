@@ -5,8 +5,9 @@
 | 一个人 | tsi̍t--ê--lâng | 一个人 |
 | 一爿花 | tsi̍t--pîng--hue | 一片花 |
 | 一蕊花 | tsi̍t--luí--hue | 一朵花 |
+| 一葩花 | tsi̍t--pha--hue | 一朵花 |
 | 一枝花 | tsi̍t--ki--hue | 一枝花 |
-| 一束花 | tsi̍t--sok--hue | 一束花 |
+| 一缚花 | tsi̍t--pa̍k--hue | 一束花 |
 | 一丛树 | tsi̍t--tsông--tshiū | 一棵树 |
 | 一模草 | tsi̍t--bôo--tsháu | 一棵草 |
 | 一粒糖 | tsi̍t--liap--thn̂g | 一颗糖 |
@@ -28,5 +29,10 @@
 | 一墩物件 | tsi̍t--tun--mi̍h‑kiānn | 一堆东西 |
 | 一橛甘蔗 | tsi̍t--kue̍h--kam‑tsià | 一截甘蔗 |
 | 一跤箸 | tsi̍t--kha--tī | 一只筷子 |
-| 一泡电火 | tsi̍t--phok--tiān‑hé | 一盏电灯 |
+| 一葩电火 | tsi̍t--pha--tiān‑hué | 一盏电灯 |
+| 一腹火 | tsi̍t--pak--hué | 一肚子火 |
+| 一垺屎 | tsi̍t‑pû‑sái | 一坨屎 |
+| 一逝路 | tsi̍t-‑tsuā--lōo | 一趟路 |
+| 一丸塗 | tsi̍t-‑uân--thôo | 一个土块 |
+| 一过 | tsi̍t-‑kuè | 一遍 |
 
