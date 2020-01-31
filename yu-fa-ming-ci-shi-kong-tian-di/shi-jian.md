@@ -27,6 +27,9 @@
 | :--- | :--- | :--- |
 | 今旦日 | kin-á-ji̍t、gian1-rig8 \(潮州\) | 今天，today |
 | 明旦日 | bîn-á-ji̍t、man2-rig8 \(潮州\) | 明天，tomorrow |
+| 明旦早起 | bîn‑á‑tsài | 明天早上，tomorrow morning |
+| 明旦早 | bîn‑á‑tsá | 明天早上，tomorrow morning |
+| 明旦起 | bîn‑á‑khí | 明天早上，tomorrow morning |
 | 昨日 | tsa--ji̍t | 昨天，yesterday |
 | 前日 | tso̍h--ji̍t | 前天，the day before yesterday |
 | 后日 | āu--ji̍t | 后天，the day after tomorrow |
