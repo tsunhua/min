@@ -13,13 +13,11 @@
 * [数词](yong-ci-shu-liang-ci/shu-ci.md)
 * [量词](yong-ci-shu-liang-ci/liang-ci.md)
 
-## 用词/介词
+## 用词/虚词
 
-* [介词](yong-ci-jie-ci/jie-ci.md)
-
-## 用词/连词
-
-* [连词](yong-ci-lian-ci/lian-ci.md)
+* [介词](yong-ci-xu-ci/jie-ci.md)
+* [连词](yong-ci-xu-ci/lian-ci.md)
+* [助词](yong-ci-xu-ci/zhu-ci.md)
 
 ## 用词/时空天地
 
