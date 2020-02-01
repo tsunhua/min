@@ -24,7 +24,7 @@
 * [时间](yong-ci-shi-kong-tian-di/shi-jian.md)
 * [空间](yong-ci-shi-kong-tian-di/kong-jian.md)
 * [天文](yong-ci-shi-kong-tian-di/tian-wen.md)
-* [地理](yong-ci-shi-kong-tian-di/di-li.md)
+* [气候](yong-ci-shi-kong-tian-di/qi-hou.md)
 
 ## 用词/人体品能
 
