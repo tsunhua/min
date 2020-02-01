@@ -17,6 +17,10 @@
 
 * [介词](yong-ci-jie-ci/jie-ci.md)
 
+## 用词/连词
+
+* [连词](yong-ci-lian-ci/lian-ci.md)
+
 ## 用词/时空天地
 
 * [时间](yong-ci-shi-kong-tian-di/shi-jian.md)
