@@ -18,8 +18,11 @@
 | 多云 |  to-hûn | 多云‌ |
 | 罩雺 | tà-bông | 起雾 |
 | 落雹 | lo̍h-pha̍uh | 下冰雹 |
+| 烁爁 | sih-nah | 闪电 |
+| 烁焰（三甲） | sih-iām | 闪电 |
 | 闪电 | siám-tiān | 闪电 |
 | 敲雷 | khà-luî | 打雷 |
+| 冻冰 | tòng-ping | 结冰 |
 
 ## 节气（tseh‑khuì）
 
