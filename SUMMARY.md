@@ -32,7 +32,7 @@
 
 ## 用词/人体品能
 
-* [人种民族](yong-ci-ren-ti-pin-neng/ren-zhong-min-zu.md)
+* [人百百种](yong-ci-ren-ti-pin-neng/ren-zhong-min-zu.md)
 * [人体生理](yong-ci-ren-ti-pin-neng/ren-ti-sheng-li.md)
 * [人体心理](yong-ci-ren-ti-pin-neng/ren-ti-xin-li.md)
 * [人体动作](yong-ci-ren-ti-pin-neng/ren-ti-dong-zuo.md)
