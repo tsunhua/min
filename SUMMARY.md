@@ -18,13 +18,15 @@
 * [介词](yong-ci-xu-ci/jie-ci.md)
 * [连词](yong-ci-xu-ci/lian-ci.md)
 * [助词](yong-ci-xu-ci/zhu-ci.md)
+* [叹词](yong-ci-xu-ci/tan-ci.md)
+* [拟声词](yong-ci-xu-ci/ni-sheng-ci.md)
 
 ## 用词/时空天地
 
 * [时间](yong-ci-shi-kong-tian-di/shi-jian.md)
 * [空间](yong-ci-shi-kong-tian-di/kong-jian.md)
 * [天文](yong-ci-shi-kong-tian-di/tian-wen.md)
-* [气候](yong-ci-shi-kong-tian-di/qi-hou.md)
+* [气候](yong-ci-shi-kong-tian-di/di-li.md)
 * [自然现象](yong-ci-shi-kong-tian-di/zi-ran-xian-xiang.md)
 * [地理](yong-ci-shi-kong-tian-di/di-li.md)
 
