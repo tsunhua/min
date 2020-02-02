@@ -9,7 +9,8 @@
 | 乌阴 | oo-im | 阴天 |
 | 出日 | tshut-jit | 有太阳 |
 | 透风 | thàu-hong | 刮大风 |
-| 冷风 | líng-hong | 冷冻兮风 |
+| 冷风 | líng-hong | 冷风 |
+| 霜风 | sng-hong | 寒风 |
 | 落雨 | lo̍h-hōo | 下雨 |
 | 阵雨 | tsūn‑hōo | 阵雨 |
 | 落雪 | lo̍h-seh | 下雪 |
