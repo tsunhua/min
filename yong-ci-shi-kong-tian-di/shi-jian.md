@@ -11,6 +11,8 @@
 | 后年 | āu-‑nî | 后年，the year after next |
 | 大前年 | tuā‑tsûn-‑nî | 大前年，three years ago |
 | 大后年 | tuā‑āu-‑nî | 大后年，three years from now |
+| 热天时 | jua̍h-thinn-sî | 夏天 |
+| 寒天时 | kuânn-thinn-sî | 冬天 |
 
 ## **月**
 
@@ -53,6 +55,13 @@
 | 暗时 | àm-sî | 夜晚、晚上 |
 | 暝時 | mê--sî | 夜晚、晚上 |
 | 半暝 | puànn-mê | 半夜 |
+
+## 毋确切兮时间
+
+| 词语 | 发音 | 含义 |
+| :--- | :--- | :--- |
+| 头阵 | thâu-tsūn | 刚才 |
+| 头先 | thâu-sing | 之前 |
 
 ## 频率
 
