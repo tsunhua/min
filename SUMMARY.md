@@ -6,11 +6,11 @@
 
 * [代词](yong-ci--ji-chu-ci-hui/zhi-shi-dai-ci.md)
 * [动词](yong-ci--ji-chu-ci-hui/dong-ci.md)
-* [量词](yong-ci--ji-chu-ci-hui/liang-ci.md)
-* [数词](yong-ci--ji-chu-ci-hui/shu-ci.md)
-* [介词](yong-ci--ji-chu-ci-hui/jie-ci.md)
-* [连词](yong-ci--ji-chu-ci-hui/lian-ci.md)
-* [助词](yong-ci--ji-chu-ci-hui/zhu-ci.md)
+* [量词](yong-ci-shu-liang-ci/liang-ci.md)
+* [数词](yong-ci-shu-liang-ci/shu-ci.md)
+* [介词](yong-ci-xu-ci/jie-ci.md)
+* [连词](yong-ci-xu-ci/lian-ci.md)
+* [助词](yong-ci-xu-ci/zhu-ci.md)
 * [叹词](yong-ci--ji-chu-ci-hui/tan-ci.md)
 * [拟声词](yong-ci--ji-chu-ci-hui/ni-sheng-ci.md)
 
@@ -19,7 +19,7 @@
 * [时间](yong-ci-shi-kong-tian-di/shi-jian.md)
 * [空间](yong-ci-shi-kong-tian-di/kong-jian.md)
 * [天文](yong-ci-shi-kong-tian-di/tian-wen.md)
-* [气候](yong-ci-shi-kong-tian-di/qi-hou.md)
+* [气候](yong-ci-shi-kong-tian-di/di-li.md)
 * [自然现象](yong-ci-shi-kong-tian-di/zi-ran-xian-xiang.md)
 * [地理](yong-ci-shi-kong-tian-di/di-li.md)
 
@@ -74,5 +74,9 @@
 ## 语法
 
 * [语法](yu-fa/yu-fa.md)
+
+## 杰作
+
+* [潮汕童谣](jie-zuo/chao-shan-tong-yao.md)
 * [参考](can-kao-1.md)
 
