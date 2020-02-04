@@ -8,6 +8,7 @@
 * [动词](yong-ci--ji-chu-ci-hui/dong-ci.md)
 * [量词](yong-ci-shu-liang-ci/liang-ci.md)
 * [数词](yong-ci-shu-liang-ci/shu-ci.md)
+* [形容词](yong-ci--ji-chu-ci-hui/xing-rong-ci.md)
 * [介词](yong-ci-xu-ci/jie-ci.md)
 * [连词](yong-ci-xu-ci/lian-ci.md)
 * [助词](yong-ci-xu-ci/zhu-ci.md)
