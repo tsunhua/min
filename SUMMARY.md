@@ -20,7 +20,7 @@
 * [时间](yong-ci-shi-kong-tian-di/shi-jian.md)
 * [空间](yong-ci-shi-kong-tian-di/kong-jian.md)
 * [天文](yong-ci-shi-kong-tian-di/tian-wen.md)
-* [气候](yong-ci-shi-kong-tian-di/qi-hou.md)
+* [气候](yong-ci-shi-kong-tian-di/di-li.md)
 * [自然现象](yong-ci-shi-kong-tian-di/zi-ran-xian-xiang.md)
 * [地理](yong-ci-shi-kong-tian-di/di-li.md)
 
@@ -80,4 +80,5 @@
 
 * [潮汕童谣](jie-zuo/chao-shan-tong-yao.md)
 * [参考](can-kao-1.md)
+* [规范](gui-fan.md)
 
