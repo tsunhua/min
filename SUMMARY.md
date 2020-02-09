@@ -1,6 +1,6 @@
 # Table of contents
 
-* [概述](README.md)
+* [前言](README.md)
 
 ## 用词/基础词汇 <a id="yong-ci--ji-chu-ci-hui"></a>
 
