@@ -6,6 +6,7 @@
 
 * [代词](yong-ci--ji-chu-ci-hui/zhi-shi-dai-ci.md)
 * [动词](yong-ci--ji-chu-ci-hui/dong-ci.md)
+* [名词](yong-ci--ji-chu-ci-hui/ming-ci.md)
 * [量词](yong-ci-shu-liang-ci/liang-ci.md)
 * [数词](yong-ci-shu-liang-ci/shu-ci.md)
 * [形容词](yong-ci--ji-chu-ci-hui/xing-rong-ci.md)
