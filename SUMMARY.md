@@ -4,82 +4,82 @@
 
 ## 用词/基础词汇 <a id="yong-ci--ji-chu-ci-hui"></a>
 
-* [代词](yong-ci--ji-chu-ci-hui/zhi-shi-dai-ci.md)
-* [动词](yong-ci--ji-chu-ci-hui/dong-ci.md)
-* [名词](yong-ci--ji-chu-ci-hui/ming-ci.md)
-* [量词](yong-ci--ji-chu-ci-hui/liang-ci.md)
-* [数词](yong-ci--ji-chu-ci-hui/shu-ci.md)
-* [形容词](yong-ci--ji-chu-ci-hui/xing-rong-ci.md)
-* [介词](yong-ci--ji-chu-ci-hui/jie-ci.md)
-* [连词](yong-ci--ji-chu-ci-hui/lian-ci.md)
-* [助词](yong-ci--ji-chu-ci-hui/zhu-ci.md)
-* [叹词](yong-ci--ji-chu-ci-hui/tan-ci.md)
-* [拟声词](yong-ci--ji-chu-ci-hui/ni-sheng-ci.md)
+* [代詞](yong-ci--ji-chu-ci-hui/zhi-shi-dai-ci.md)
+* [動詞](yong-ci--ji-chu-ci-hui/dong-ci.md)
+* [名詞](yong-ci--ji-chu-ci-hui/ming-ci.md)
+* [量詞](yong-ci--ji-chu-ci-hui/liang-ci.md)
+* [數詞](yong-ci--ji-chu-ci-hui/shu-ci.md)
+* [形容詞](yong-ci--ji-chu-ci-hui/xing-rong-ci.md)
+* [介詞](yong-ci--ji-chu-ci-hui/jie-ci.md)
+* [連詞](yong-ci--ji-chu-ci-hui/lian-ci.md)
+* [助詞](yong-ci--ji-chu-ci-hui/zhu-ci.md)
+* [嘆詞](yong-ci--ji-chu-ci-hui/tan-ci.md)
+* [擬聲詞](yong-ci--ji-chu-ci-hui/ni-sheng-ci.md)
 
-## 用词/时空天地
+## 用詞/時空天地
 
-* [时间](yong-ci-shi-kong-tian-di/shi-jian.md)
-* [空间](yong-ci-shi-kong-tian-di/kong-jian.md)
+* [時間](yong-ci-shi-kong-tian-di/shi-jian.md)
+* [空間](yong-ci-shi-kong-tian-di/kong-jian.md)
 * [天文](yong-ci-shi-kong-tian-di/tian-wen.md)
-* [气候](yong-ci-shi-kong-tian-di/qi-hou.md)
-* [自然现象](yong-ci-shi-kong-tian-di/zi-ran-xian-xiang.md)
+* [氣候](yong-ci-shi-kong-tian-di/qi-hou.md)
+* [自然現象](yong-ci-shi-kong-tian-di/zi-ran-xian-xiang.md)
 * [地理](yong-ci-shi-kong-tian-di/di-li.md)
 
-## 用词/人体品能
+## 用詞/人體品能
 
-* [人百百种](yong-ci-ren-ti-pin-neng/ren-zhong-min-zu.md)
-* [人体生理](yong-ci-ren-ti-pin-neng/ren-ti-sheng-li.md)
-* [人体心理](yong-ci-ren-ti-pin-neng/ren-ti-xin-li.md)
-* [人体动作](yong-ci-ren-ti-pin-neng/ren-ti-dong-zuo.md)
+* [人百百種](yong-ci-ren-ti-pin-neng/ren-zhong-min-zu.md)
+* [人體生理](yong-ci-ren-ti-pin-neng/ren-ti-sheng-li.md)
+* [人體心理](yong-ci-ren-ti-pin-neng/ren-ti-xin-li.md)
+* [人體動作](yong-ci-ren-ti-pin-neng/ren-ti-dong-zuo.md)
 * [容止品能](yong-ci-ren-ti-pin-neng/rong-zhi-pin-neng.md)
 
-## 用词/衣食住行
+## 用詞/衣食住行
 
-* [衣着妆扮](yong-ci-yi-shi-zhu-hang/yi-zhe-zhuang-ban.md)
-* [饮食器具](yong-ci-yi-shi-zhu-hang/yin-shi-qi-ju.md)
-* [建筑房屋](yong-ci-yi-shi-zhu-hang/jian-zhu-fang-wu.md)
+* [衣著妝扮](yong-ci-yi-shi-zhu-hang/yi-zhe-zhuang-ban.md)
+* [飲食器具](yong-ci-yi-shi-zhu-hang/yin-shi-qi-ju.md)
+* [建築房屋](yong-ci-yi-shi-zhu-hang/jian-zhu-fang-wu.md)
 * [交通交流](yong-ci-yi-shi-zhu-hang/jiao-tong-jiao-liu.md)
 
-## 用词/生物医疗
+## 用詞/生物醫療
 
-* [动物](yong-ci-sheng-wu-yi-liao/dong-wu.md)
+* [動物](yong-ci-sheng-wu-yi-liao/dong-wu.md)
 * [植物](yong-ci-sheng-wu-yi-liao/zhi-wu.md)
 * [生老病死](yong-ci-sheng-wu-yi-liao/sheng-lao-bing-si.md)
-* [医疗保健](yong-ci-sheng-wu-yi-liao/yi-liao-bao-jian.md)
+* [醫療保健](yong-ci-sheng-wu-yi-liao/yi-liao-bao-jian.md)
 
 ## 用词/人群社交
 
 * [家庭宗族](yong-ci-ren-qun-she-jiao/jia-ting-zong-zu.md)
-* [社会团体](yong-ci-ren-qun-she-jiao/she-hui-tuan-ti.md)
-* [身份职业](yong-ci-ren-qun-she-jiao/shen-fen-zhi-ye.md)
-* [民俗活动](yong-ci-ren-qun-she-jiao/min-su-huo-dong.md)
-* [人际社交](yong-ci-ren-qun-she-jiao/ren-ji-she-jiao.md)
+* [社會團體](yong-ci-ren-qun-she-jiao/she-hui-tuan-ti.md)
+* [身份職業](yong-ci-ren-qun-she-jiao/shen-fen-zhi-ye.md)
+* [民俗活動](yong-ci-ren-qun-she-jiao/min-su-huo-dong.md)
+* [人際社交](yong-ci-ren-qun-she-jiao/ren-ji-she-jiao.md)
 
-## 用词/文教信仰
+## 用詞/文教信仰
 
 * [文教](yong-ci-wen-jiao-xin-yang/wen-jiao.md)
 * [信仰](yong-ci-wen-jiao-xin-yang/xin-yang.md)
 
-## 用词/经法政军
+## 用詞/經法政軍
 
-* [经济](yong-ci-jing-fa-zheng-jun/jing-ji.md)
+* [經濟](yong-ci-jing-fa-zheng-jun/jing-ji.md)
 * [法律](yong-ci-jing-fa-zheng-jun/fa-lv.md)
 * [政治](yong-ci-jing-fa-zheng-jun/zheng-zhi.md)
-* [军事](yong-ci-jing-fa-zheng-jun/jun-shi.md)
+* [軍事](yong-ci-jing-fa-zheng-jun/jun-shi.md)
 
-## 音韵
+## 音韻
 
-* [台罗拼音](yin-yun/tai-luo-pin-yin.md)
-* [闽南拼音](yin-yun/min-nan-pin-yin.md)
-* [潮州话拼音方案](yin-yun/chao-zhou-hua-pin-yin-fang-an.md)
+* [台羅拼音](yin-yun/tai-luo-pin-yin.md)
+* [閩南拼音](yin-yun/min-nan-pin-yin.md)
+* [潮州話拼音方案](yin-yun/chao-zhou-hua-pin-yin-fang-an.md)
 
-## 语法
+## 語法
 
 * [语法](yu-fa/yu-fa.md)
 
-## 杰作
+## 傑作
 
-* [潮汕童谣](jie-zuo/chao-shan-tong-yao.md)
-* [参考](can-kao-1.md)
-* [规范](gui-fan.md)
+* [潮汕童謠](jie-zuo/chao-shan-tong-yao.md)
+* [參考](can-kao-1.md)
+* [規範](gui-fan.md)
 

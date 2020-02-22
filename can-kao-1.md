@@ -1,9 +1,9 @@
-# 参考
+# 參考
 
-这本手册参考下底遮资料（排名无分先后）：
+這本手冊參考下底遮資料（排名無分先後）：
 
 1. [萌典](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E)
-2. [汉典](https://www.zdic.net/)
+2. [漢典](https://www.zdic.net/)
 3. [甘字典查詢](http://taigi.fhl.net/dick/index.html)
 4. [iTaigi](https://itaigi.tw/)
 5. [台灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/default.jsp)
