@@ -1,33 +1,19 @@
-# 形容词
+# 形容詞
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 媠䆀 | suí--bái | 美丑 |
-| 雅 | ngá- | 美丑 |
-| 大细 | tuā--sè | 大小 |
-| 济少 / 㩼少 | tsē-tsió | 多少 |
-| 加减 | ke1-kiam2 | 多少 |
-| 猛慢 | mé-bān | 快慢 |
-| 肥㾪 | puî-sán | 胖瘦 |
-| 悬低 / 危下 | kuân-kē | 高低 |
-| 早晏 | tsá-uànn | 早晚 |
-| 粗、幼 | tshoo, iù | 粗细 |
-| 芳、臭 | phang, tshàu | 香、臭 |
-| 恶、易 | oh4-koih4 | 困难、容易 |
-| 阔、狭 | khuah, e̍h/ue̍h | 宽、窄 |
-| 光、暗 | kng, àm | 亮、暗 |
-| 恬、吵 | tiām, tshá | 安静、吵闹 |
-| 饱、枵 | pá, iau | 饱、饿 |
-| 脆、韧 | tshè, lūn | 易断裂、不易断裂 |
-| 巧、戇 | khiáu, gōng | 聪明、呆笨 |
-| 灱/焦、㴷/澹 | ta, tâm | 干、湿 |
-| 落雨㴷渧 | tam5-ti3 | 下雨湿漉漉的样子 |
-| 䞐、欠 | tshun, khiàm | 剩余、欠 |
-| 着、毋着 | tio̍h, m̄-tio̍h | 对、不对 |
-| 清气 | tshing-khì | 干净 |
-| 清气相 | tshing‑khì‑siùnn | 干净的样子 |
-| 无沙无圾 | bô-sua-bô-sap | 一尘不染 |
-| 垃圾 | lah-sap | 肮脏 |
-| 垃圾相 | lah-sap-siùnn | 肮脏的样子 |
-| 一生跪跋 |  | 一生坎坷 |
+|  |  |
+| :--- | :--- |
+| 媠䆀 sui2-bai2 `美醜` | 雅 nga2 |
+| 大細 tua7-se3 `大小` | 濟少/㩼少 tse7-tsio2 `多少` |
+| 加減 ke1-kiam2 `多少` | 猛慢 me2-ban7 `快慢` |
+| 肥㾪 pui5-san2 `胖瘦` | 懸低/危下 kuan5-ke7 `高低` |
+| 早晏 tsa2-uann3 `早晚` | 粗、幼 tshoo, iu3 `粗細` |
+| 芳、臭 phang, tshau3 `香、臭` | 惡、易oh4-koih `困難、容易` |
+| 闊、狹 khuah, eh8/ueh8 `寬、窄` | 光、暗 kng, am3 `亮、暗` |
+| 恬、吵 tiam7, tsha2 `安靜、吵鬧` | 飽、枵 pa2, iau `飽、餓` |
+| 脆、韌 tshe3, lun7 `易斷裂、不易斷裂` | 巧、戇 khiau2, gong7 `聰明、呆笨` |
+| 灱/焦、㴷/澹 ta, tam5 `乾、濕` | 落雨㴷渧 tam5-ti3 `下雨濕漉漉的樣子` |
+| 賰、欠 tshun, khiam3 `剩餘、欠` | 著、毋著 tioh8, m7-tioh8 `對、不對` |
+| 清氣 tshing-khi3 `乾淨` | 清氣相 tshing‑khi3‑siunn3 `乾淨的樣子` |
+| 垃圾 lah-sap `骯臟` | 垃圾相 lah-sap-siunn3 `骯臟的樣子` |
+| 無沙無圾 bo5-sua-bo5-sap `一塵不染` | 一生跪跋 jit8-senn-kui-puah8`一生坎坷` |
 

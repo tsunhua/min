@@ -1,26 +1,18 @@
-# 空间
+# 空間
 
 ## 方位
 
-| 词语 | 发音 |  |
-| :--- | :--- | :--- |
-| 内底 | lāi-té/lāi-tué | 里面 |
-| 内 | lāi | 里面；家里 |
-| 中央 | tiong-ng | 中间 |
-| 外口 | guā-kháu | 外面 |
-| 头顶 | thâu-tíng | 上面 |
-| 头前 | thâu-tsîng | 前面 |
-| 下跤 | ē-kha | 下面 |
-| 下底 | ē-té/ē-tué | 下面 |
-| 后底 | āu-té/āu-tué | 后面 |
-| 后壁 | āu-piah | 后面 |
-| 对面 | tuì-bīn | 对面 |
-| 隔壁 | keh-piah | 隔壁 |
-| 邻近 | lîn-kīn/lîn-kūn | 邻近 |
-| 塗跤 | thôo-kha | 地上 |
-| 北爿 | pak-pîng | 北边 |
-| 番爿 |  | 南洋那边，喻远处 |
-| 东南西北 | tang-lâm-se-pak | 东南西北 |
+|  |  |
+| :--- | :--- |
+| 內底 lai7-te2/lai7-tue2 `裡面` | 內 lai7 `裡面；家裡` |
+| 中央 tiong-ng `中間` | 外口 gua7-khau2 `外面` |
+|  頭頂 thau5-ting2 `上面` | 頭前 thau5-tsing5 `前面` |
+| 下跤 e7-kha `下面` | 下底 e7-te2/e7-tue2 `下面` |
+| 後底 au7-te2/au7-tue2 `後面` | 後壁 au7-piah `後面` |
+| 對面 tui3-bin7 | 隔壁 keh-piah |
+| 鄰近 lin5-kin7/lin5-kun7 | 塗跤 thoo5-kha `地上` |
+| 北爿 pak-ping5 `北邊` | 番爿huan-painnh`南洋那邊，喻遠處` |
+| 東南西北 tang-lâm-se-pak |  |
 
 
 

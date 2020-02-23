@@ -1,15 +1,10 @@
 # 天文
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 天文 | thian-bûn | 天文 |
-| 月娘 | gue̍h-niû/ge̍h-niû | 月亮 |
-| 月眉 | gue̍h-bâi/ge̍h-bâi | 弦月 |
-| 月蚀 | gue̍h-sit | 月食 |
-| 日头 | ji̍t-thâu/li̍t-thâu | 太阳 |
-| 星屎 | tshenn-sái | 流星 |
-| 落屎星 | làu-sái-tshenn | 流星 |
-| 流星 | liû-tshenn/liû-tshinn | 流星 |
-| 星宿 | sing-siù | 天空的星群 |
-| 河溪 | hô-khe/hô-khue | 银河；天河 |
+|  |  |
+| :--- | :--- |
+| 天文 thian-bun5 | 月娘 gueh8-niu5`月亮` |
+| 月眉 gueh8-bai5 `弦月` | 月蝕 gueh8-sit`月食` |
+| 日頭 jit8-thau5 `太陽` | 星屎 tshenn-sai2 `流星` |
+| 落屎星 lau3-sai2-tshenn `流星` | 流星 liu5-tshenn/liu5-tshinn |
+| 星宿 sing-siu3 `天空的星群` | 河溪 ho5-khe/ho5-khue `銀河；天河` |
 

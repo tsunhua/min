@@ -1,83 +1,60 @@
-# 时间
+# 時間
 
 ## **年**
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 今年 | kin--nî | 今年，this year |
-| 旧年 | kū--nî | 去年，last year |
-| 下年 | ē--nî | 明年，next year |
-| 前年 | tsûn-‑nî | 前年，the year before last |
-| 后年 | āu-‑nî | 后年，the year after next |
-| 大前年 | tuā‑tsûn-‑nî | 大前年，three years ago |
-| 大后年 | tuā‑āu-‑nî | 大后年，three years from now |
-| 热天时 | jua̍h-thinn-sî | 夏天 |
-| 寒天时 | kuânn-thinn-sî | 冬天 |
+|  |  |
+| :--- | :--- |
+| 今年 kin--ni5  | 舊年 ku7-ni5 ****`去年` |
+| 下年 e7-ni5 明年 | 前年 tsun5‑ni5 `the year before last` |
+| 後年 au7-‑ni5 `the year after next` | 大前年 tua7‑tsun5-ni5 `three years ago` |
+| 大後年 tua7‑au7‑ni5 `three years from now` | 熱天時 juah8-thinn-si5 `夏天` |
+| 寒天時 kuann5-thinn-si5 `冬天` |  |
 
 ## **月**
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 前个月 | tsiân kò ge̍h | 上月，last month |
-| 上个月 | tsiūnn kò ge̍h | 上月，last month |
-| 后个月 | āu kò ge̍h | 下月，next month |
-| 下个月 | ē kò ge̍h | 下月，next month |
+|  |  |
+| :--- | :--- |
+| 頂月 ting2-gueh8 `上個月` | 後個月 au7-ko3-gueh8`下個月` |
+| 上個月 tsiunn7-gai7-gueh8 | 下個月 e7-gai7-gueh8 |
 
 ## **日**
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 今旦日 | kin-á-ji̍t、gian1-rig8 \(潮州\) | 今天，today |
-| 明旦日 | bîn-á-ji̍t、man2-rig8 \(潮州\) | 明天，tomorrow |
-| 明旦早起 | bîn‑á‑tsài | 明天早上，tomorrow morning |
-| 明旦早 | bîn‑á‑tsá | 明天早上，tomorrow morning |
-| 明旦起 | bîn‑á‑khí | 明天早上，tomorrow morning |
-| 昨日 | tsa--ji̍t | 昨天，yesterday |
-| 前日 | tso̍h--ji̍t | 前天，the day before yesterday |
-| 后日 | āu--ji̍t | 后天，the day after tomorrow |
-| 大前日 | tuā-tso̍h--ji̍t | 大前天，three days ago |
-| 大后日 | tuā-āu--ji̍t | 大后天，three days from now |
+|  |  |
+| :--- | :--- |
+| 今旦日 kin-a2-jit8/kian1-jit8 `今天` | 明旦日 bin5-a2-jit8/man2-jit8 `明天` |
+| 明旦早起 bin5‑a2‑tsai3 `明天早上` | 明旦早 bin5‑a2-tsa2 `明天早上` |
+| 明旦起 bin5‑a2-khi2 `明天早上` | 昨日 tsa--jit8 `昨天` |
+| 前日 tsoh8-jit8 `前天` | 後日 au7-jit8 `後天` |
+| 大前日 tua-tsoh8-jit8 `大前天/three days ago` | 大後日 tua7-au7-jit8 `大後天/three days from now` |
 
-## **时**
+## **時**
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 透早 | thàu-tsá | 黎明 |
-| 眠起 \(潮汕\) | bîn-khí | 早晨 |
-| 下早 | e-tsái | 早上 |
-| 日时 | ji̍t-sî | 白天 |
-| 早时 | tsá-sî | 早上 |
-| 早昼 | tsá-tàu | 早上 |
-| 中昼 | tiong-tàu | 中午 |
-| 中昼时 | tiong-tàu-sî | 中午 |
-| 下昼 | ē-tàu | 下午 |
-| 暗头 | àm-thâu | 傍晚 |
-| 下昏 | e-hng | 夜晚、晚上 |
-| 下昏时 | êng-sî | 夜晚、晚上 |
-| 暗时 | àm-sî | 夜晚、晚上 |
-| 暝時 / 夜时\(训读\) | mê--sî | 夜晚、晚上 |
-| 半暝 / 半夜\(训读\) | puànn-mê | 半夜 |
+|  |  |
+| :--- | :--- |
+| 透早 thau3-tsa2 `黎明` | 眠起 bin5-khi2 `早晨` |
+| 下早 e-tsa2`早上` | 日時 jit8-si5 `白天` |
+| 早時 tsa2-si5`早上` | 早晝 tsa2-tau3`早上` |
+| 中晝 tiong-tau3 `中午` | 中晝時 tiong-tau3-si5`中午` |
+| 下晝 e7-tau3 `下午` | 暗頭 am3-thau5 `傍晚` |
+| 下昏 e-hng `夜晚/晚上` | 下昏時 eng5-si5`夜晚/晚上` |
+| 暗時 am3-si5`夜晚/晚上` | 暝時 me5-si5`夜晚/晚上` |
+| 半暝 puann3-me5 `半夜` |  |
 
-## 毋确切兮时间
+## 毋確切兮時間
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 头阵 | thâu-tsūn | 刚才 |
-| 头先 | thâu-sing | 之前 |
-| 煞尾 | sua4-bue2 | 最后 |
+|  |  |
+| :--- | :--- |
+| 頭先 thau5-sing `之前` | 煞尾 sua4-bue2 `最後` |
+| 頭陣 thau5-tsun7 `剛才` |  |
 
-## 频率
+## 頻率
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 逐日 | ta̍k-ji̍t | 每天 |
-| 逐暝 | ta̍k-mê | 每晚 |
-| 透日 | thàu-ji̍t | 整天 |
-| 通日 | thang-ji̍t | 整天 |
-| 半日 | puànn-ji̍t | 半天 |
-| 隔日 | keh-ji̍t | 隔天 |
-| 隔暝 / 隔夜\(训读\) | keh-mê | 隔夜 |
-| 別日 | pa̍t-ji̍t | 改天 |
-| 平常时 | pîng-siông-sî | 平时 |
-| 即时 | tsik-sî | 立刻 |
+|  |  |
+| :--- | :--- |
+| 逐日 tak8-jit8 `每天` | 逐暝 tak8-me5 `每晚` |
+| 透日 thàu-jit8 `整天` | 通日 thang-jit8`整天` |
+| 半日puann3-jit8 `半天` | 隔日 keh-jit8 `隔天` |
+| 隔暝 keh-me5 `隔夜` | 別日 pat8-jit8 `改天` |
+| 即時 tsik-si5 `立刻；馬上` | 平常時 ping5-siong5-si5 `平時` |
+| 一日通通 tsit8-jit8-thang-thang `一天到晚` |  |
 
