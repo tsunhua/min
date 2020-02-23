@@ -1,23 +1,16 @@
 # 人百百種
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 人类 | jîn-luī | 人类 |
-| 查埔\(人\) | tsa-poo\(-lâng\) | 男人 |
-| 查某\(人\) | tsa-bóo\(-lâng\) | 女人 |
-| 姿娘 / 真娘 |  | 女人 |
-| 孥囝 | lôo‑kiánn / nou5 gian2\(潮汕\) | 小孩 |
-| 囡仔人 | gín-á-lâng | 小孩 |
-| 查埔囝 | tsa-poo-kiánn | 男孩 |
-| 查某囝 | tsa-bóo-kiánn | 女孩 |
-| 白人 | pe̍h-lâng | 白色人种 |
-| 乌人 | oo‑lâng | 黑色人种 |
-| 外国人 | guā‑kok-lâng | 外国人 |
-| 毋成人 | m̄-tsiânn-lâng | 骂人不成人样，不像话 |
-| 未成人 | buē-tsiânn-lâng | 未成年人 |
-| 茨边头尾 | tshù-pinn-thâu-bué | 房屋两边及前后，指邻居 |
-| 浪子 | lōng-tsú | 不务正业到处游荡的人 |
-| 毋肖 | m5-siau6 | 不肖 |
+|  |  |
+| :--- | :--- |
+| 人類 jîn-luī `人類` | 丈夫\(人\) ta-poo\(-lang5\) `男人` |
+| 諸夫\(人\) tsa-poo\(-lang5\)`男人` | 諸母\(人\) tsa-boo2\(-lang5\) `女人` |
+| 諸娘 tsu-niu5 `女人` | 阿孥/阿奴 a-kiann2 `小孩` |
+| 孥囝 nou5-kiann2 `小孩` | 諸夫囝 tsa-poo-kiann2 `兒子` |
+| 諸母囝 tsa-boo2-kiann2 `女兒` | 浪子 long7-tsu2 `不務正業到處遊蕩的人` |
+| 白人 peh8-lang5 `白色人種` | 烏人 oo‑lang5`黑色人種` |
+| 外國人 gua7‑kok-lang5 `外國人` | 毋成人 m7-tsiann5-lang5`罵人不成人樣，不像話` |
+| 未成人 bue7-tsiann5-lang5 `未成年人` | 毋肖 m5-siau6 `不肖` |
+| 茨邊頭尾 tshu3-pinn-thau5-bue2 `房屋兩邊及前後，指鄰居` |  |
 
 
 
