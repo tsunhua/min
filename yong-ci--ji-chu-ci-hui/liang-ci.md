@@ -1,39 +1,23 @@
-# 量词
+# 量詞
 
-| 词语 | 发音 | 含义 |
-| :--- | :--- | :--- |
-| 一个人 | tsi̍t--ê--lâng | 一个人 |
-| 一爿花 | tsi̍t--pîng--hue | 一片花 |
-| 一蕊花 | tsi̍t--luí--hue | 一朵花 |
-| 一葩花 | tsi̍t--pha--hue | 一朵花 |
-| 一枝花 | tsi̍t--ki--hue | 一枝花 |
-| 一缚花 | tsi̍t--pa̍k--hue | 一束花 |
-| 一丛树 | tsi̍t--tsông--tshiū | 一棵树 |
-| 一模草 | tsi̍t--bôo--tsháu | 一棵草 |
-| 一簇头毛 | tsi̍t--tshok--thâu‑mn̂g | 一撮头发 |
-| 一粒糖 | tsi̍t--liap--thn̂g | 一颗糖 |
-| 一只车   | tsi̍t--tsiah--tshia | 一辆车 |
-| 一杯茶 | tsi̍t--pue--tê | 一杯茶 |
-| 一碗水 | tsi̍t--uánn--tsuí | 一碗水 |
-| 一喙水 | tsi̍t--tshuì--tsuí | 一口水 |
-| 一条弓蕉 | tsi̍t--tiâu--king‑tsio | 一条香蕉 |
-| 一本冊 | tsi̍t--pún--tsheh | 一本书 |
-| 一支手机 | tsi̍t--ki--tshiú‑ki | 一只手机 |
-| 一支锁匙 | tsi̍t--ki--só‑sî | 一把钥匙 |
-| 一箍 / 一角银 | tsi̍t--khoo / tsi̍t--kak--gîn | 一块钱 |
-| 一领被 | tsi̍t--niá--phuē | 一席被子 |
-| 一个铺 | tsi̍t--ê--phoo | 一张床 |
-| 一个钟头 | tsi̍t--ê--tsing-thâu | 一个小时 |
-| 一副衫裤 | tsi̍t--sann‑khòo | 一套衣服 |
-| 一腰裙 | tsi̍t--io--kûn | 一件裙子 |
-| 一尾鱼 | tsi̍t--bué--hî | 一条鱼 |
-| 一墩物件 | tsi̍t--tun--mi̍h‑kiānn | 一堆东西 |
-| 一橛甘蔗 | tsi̍t--kue̍h--kam‑tsià | 一截甘蔗 |
-| 一跤箸 | tsi̍t--kha--tī | 一只筷子 |
-| 一葩电火 | tsi̍t--pha--tiān‑hué | 一盏电灯 |
-| 一腹火 | tsi̍t--pak--hué | 一肚子火 |
-| 一垺屎 | tsi̍t‑pû‑sái | 一坨屎 |
-| 一逝路 | tsi̍t-‑tsuā--lōo | 一趟路 |
-| 一丸塗 | tsi̍t-‑uân--thôo | 一个土块 |
-| 一过 | tsi̍t-‑kuè | 一遍 |
+|  |  |
+| :--- | :--- |
+| 一個人 tsit8-e5-lang5 | 一爿花 tsit8-ping5-hue `一片花` |
+| 一蕊花 tsit8-lui2-hue `一朵花` | 一葩花 tsit8-pha-hue `一朵花` |
+| 一枝花 tsit8-ki-hue | 一縛花 tsit8-pak8-hue `一束花` |
+| 一叢樹 tsit8-tsong5-tshiu7 `一棵樹` | 一模草 tsit8-boo5-tshau2 `一棵草` |
+| 一簇頭毛 tsit8-tshok-thau5-mng5 `一撮頭髮` | 一粒糖 tsit8-liap-thng5 `一顆糖` |
+| 一隻車 tsit8-tsiah-tshia `一輛車` | 一杯茶 tsit8-pue-te5 |
+| 一碗水 tsit8-uann2-tsui2 | 一喙水 tsit8-tshui3-tsui2 `一口水` |
+| 一條弓蕉  tsit8-tiau5-king-tsio`一條香蕉` | 一本冊 tsit8-pun2-tsheh `一本書` |
+| 一支手機 tsit8-ki-thiu `一隻手機` | 一支鎖匙 tsit8-ki-so2-si5 `一把鑰匙` |
+| 一箍 / 一角銀 tsit8-khoo/tsit8-kak-gin5 `一塊錢` | 一領被 tsit8-nia2-phue7 `一席被子` |
+| 一個鋪 tsit8-gai7-phoo `一張床` | 一個鐘頭 tsit8-e5-tsing-thau5 `一個小時` |
+| 一副衫褲 tsit8-sann-khoo3 `一套衣服` | 一腰裙 tsit8-io-kun5 `一件裙子` |
+| 一尾魚 tsit8-bue2-hi5 `一條魚` | 一墩物件 tsit8-tun-mih8-kiann7 `一堆東西` |
+| 一橛甘蔗 tsit8-kueh8-kam-tsia3 `一截甘蔗` | 一葩電火 tsit8-pha-tian7-hue2 `一盞電燈` |
+| 一跤箸 tsit8-kha-ti7`一隻筷子` | 一雙箸 tsit8-sann-ti7 `一雙筷子` |
+| 一腹火 tsit8-pak-hue2 `一肚子火` | 一垺屎 tsit8-pu5-sai2 `一坨屎` |
+| 一逝路 tsit8-tsua7-loo7 `一趟路` | 一丸塗 tsit8-uan5-thoo5 `揉成一團的泥土塊` |
+| 一過 tsit8-kue3 `一遍` |  |
 
