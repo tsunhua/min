@@ -27,7 +27,7 @@
 
 ## 用詞/人體品能
 
-* [人百百種](yong-ci-ren-ti-pin-neng/ren-bai-bai-zhong.md)
+* [人百百種](yong-ci-ren-ti-pin-neng/ren-zhong-min-zu.md)
 * [人體生理](yong-ci-ren-ti-pin-neng/ren-ti-sheng-li.md)
 * [人體心理](yong-ci-ren-ti-pin-neng/ren-ti-xin-li.md)
 * [人體動作](yong-ci-ren-ti-pin-neng/ren-ti-dong-zuo.md)
