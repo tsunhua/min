@@ -8,8 +8,7 @@
 | 下年 e7-ni5 明年 | 前年 tsun5‑ni5 `the year before last` |
 | 後年 au7-‑ni5 `the year after next` | 大前年 tua7‑tsun5-ni5 `three years ago` |
 | 大後年 tua7‑au7‑ni5 `three years from now` | 熱天時 juah8-thinn-si5 `夏天` |
-| 寒天時 kuann5-thinn-si5 `冬天` | 貴米年 kuih-bi2-ni5`荒年` |
-| 老曆 lau-lek8 `農曆` | 新曆 sin-lek8 `公曆` |
+| 寒天時 kuann5-thinn-si5 `冬天` |  |
 
 ## **月**
 
@@ -39,7 +38,7 @@
 | 下晝 e7-tau3 `下午` | 暗頭 am3-thau5 `傍晚` |
 | 下昏 e-hng `夜晚/晚上` | 下昏時 eng5-si5`夜晚/晚上` |
 | 暗時 am3-si5`夜晚/晚上` | 暝時 me5-si5`夜晚/晚上` |
-| 暝昏 me5-hng`夜晚/晚上` | 半暝 puann3-me5 `半夜` |
+| 半暝 puann3-me5 `半夜` |  |
 
 ## 毋確切兮時間
 
