@@ -16,4 +16,5 @@
 | 清氣 tshing-khi3 `乾淨` | 清氣相 tshing‑khi3‑siunn3 `乾淨的樣子` |
 | 垃圾 lah-sap `骯臟` | 垃圾相 lah-sap-siunn3 `骯臟的樣子` |
 | 無沙無圾 bo5-sua-bo5-sap `一塵不染` | 一生跪跋 jit8-senn-kui-puah8`一生坎坷` |
+| 青熟 |  |
 

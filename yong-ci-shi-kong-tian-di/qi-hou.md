@@ -7,7 +7,8 @@
 | 天時 thian‑si5 `天氣` | 晴 tsenn5 `晴朗` |
 | 烏陰 oo-im `陰天` | 出日 tshut-jit `有太陽` |
 | 透風 thau3-hong `刮大風` | 風颱 hong‑thai `颱風` |
-|  冷風 ling2-hong | 霜風 sng-hong `寒風` |
+| 冷風 ling2-hong | 霜風 sng-hong `寒風` |
+| 轉南風 `颳南風，濕氣加重` | 旱 uann6 `乾旱` |
 | 落雨 loh8-hoo7 `下雨` | 日頭雨  `一邊下雨，一邊出太陽` |
 | 陣雨 tsun7‑hoo7 | 落雪 loh8-seh `下雪` |
 | 霜雪 sng-seh `霜與雪` | 多雲  to-hun5 |
