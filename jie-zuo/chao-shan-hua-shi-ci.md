@@ -11,7 +11,7 @@ siang5 ki3 khoi teng5 jik8 mo6,
 tim5 tsui3 puk tsai kui lou7,
 
 興盡晚回舟，  
-heng3 tsing6 mung2 hue5 tsiu ,
+heng3 tsing6 mng2 hue5 tsiu ,
 
 誤入藕花深處。  
 gou7 jip8 ngou2 hue tshim tshu3.
