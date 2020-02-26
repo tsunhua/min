@@ -23,7 +23,7 @@ tsenn tou7, tsenn tou7,
 kiann khi2 tsep8 thuann ao liou6.
 
 昨夜雨疏風驟，  
-tsa1 ia7 hou6 so hong1 tsou6,
+tsoh8 ia7 hou6 so hong1 tsou6,
 
 濃睡不消殘酒。  
 long5 sui6 puk siou tshang5 tsiu2.
