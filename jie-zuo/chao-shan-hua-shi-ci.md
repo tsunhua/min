@@ -38,7 +38,7 @@ khiak4 tao6 hai2 thang5 i ku7.
 tsai1 hounn2? tsai1 hounn2?
 
 應是綠肥紅瘦。  
-eng si6 lek8 pui5 ang5 sou2.
+eng si6 lek8 pui5 ang5 san2.
 
 
 
