@@ -80,6 +80,7 @@
 ## 傑作
 
 * [潮汕童謠](jie-zuo/chao-shan-tong-yao.md)
+* [潮汕話詩詞](jie-zuo/chao-shan-hua-shi-ci.md)
 * [參考](can-kao.md)
 * [規範](gui-fan.md)
 
