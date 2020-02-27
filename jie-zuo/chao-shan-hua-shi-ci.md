@@ -20,7 +20,7 @@ gou7 jip8 ngou2 hue tshim tshu3.
 tsenn tou7, tsenn tou7,
 
 驚起一攤鷗鷺。  
-kiann khi2 tsep8 thuann ao liou6.
+kiann khi2 tsep8 thuann ao lu6.
 
 昨夜雨疏風驟，  
 tsoh8 ia7 hou6 so hong1 tsou6,
