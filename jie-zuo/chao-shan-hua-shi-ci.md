@@ -22,6 +22,8 @@ tsenn tou7, tsenn tou7,
 驚起一攤鷗鷺。  
 kiann khi2 tsep8 thuann ao lu6.
 
+【二首·其二】
+
 昨夜雨疏風驟，  
 tsoh8 ia7 hou6 so hong1 tsou6,
 
