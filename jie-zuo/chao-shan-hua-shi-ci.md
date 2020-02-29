@@ -4,6 +4,8 @@
 
 【二首·其一】李清照\(li2 ceng1-tsio3\)
 
+{% file src="../.gitbook/assets/ru-meng-ling-qi-yi-li-qing-zhao.m4a" caption="音頻（潮汕話三甲片區口音）" %}
+
 常記溪亭日暮，  
 siang5 ki3 khoi teng5 jik8 mo6,
 
