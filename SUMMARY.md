@@ -1,6 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
+* [規範](gui-fan.md)
 
 ## 用词/基础词汇 <a id="yong-ci--ji-chu-ci-hui"></a>
 
@@ -83,5 +84,4 @@
 * [潮汕童謠](jie-zuo/chao-shan-tong-yao.md)
 * [潮汕話詩詞](jie-zuo/chao-shan-hua-shi-ci.md)
 * [參考](can-kao.md)
-* [規範](gui-fan.md)
 
