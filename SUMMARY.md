@@ -10,6 +10,7 @@
 * [量詞](yong-ci--ji-chu-ci-hui/liang-ci.md)
 * [數詞](yong-ci--ji-chu-ci-hui/shu-ci.md)
 * [形容詞](yong-ci--ji-chu-ci-hui/xing-rong-ci.md)
+* [副詞](yong-ci--ji-chu-ci-hui/fu-ci.md)
 * [介詞](yong-ci--ji-chu-ci-hui/jie-ci.md)
 * [連詞](yong-ci--ji-chu-ci-hui/lian-ci.md)
 * [助詞](yong-ci--ji-chu-ci-hui/zhu-ci.md)
