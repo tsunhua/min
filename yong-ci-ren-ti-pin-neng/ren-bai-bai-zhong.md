@@ -5,6 +5,7 @@
 | 人類 jîn-luī `人類` | 後生囝`年輕人` |
 | 諸夫\(人\) tsa-poo\(-lang5\)`男人` | 丈夫\(人\) ta-poo\(-lang5\) `男人` |
 | 諸娘 tsu-niu5 `女人` | 諸母\(人\) tsa-boo2\(-lang5\) `女人` |
+| 姥 bou2`老婆` | 翁 ang`老公` |
 | 孥囝 nou5-kiann2 `小孩` | 阿孥/阿奴 a-kiann2 `小孩` |
 | 諸母囝 tsa-boo2-kiann2 `女兒` | 諸夫囝 tsa-poo-kiann2 `兒子` |
 | 白人 peh8-lang5 `白色人種` | 烏人 oo‑lang5`黑色人種` |
