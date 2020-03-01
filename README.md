@@ -2,7 +2,7 @@
 
 閩南語是漢語系中的一支，其他的漢語系語言還有現代標準漢語、粵語、客家語、吳語佮\(kah, 同「和」\)官話等等。
 
-漢字是漢族及周邊民族所共用的文字，著\(tī/to/tio, 同「在」\)明朝嘉靖（公元1556年）的時候就用閩南語創作了《荔鏡記》（也叫做《陳三五娘》，參閱：[中國哲學書電子化計劃](https://ctext.org/wiki.pl?if=gb&chapter=127506)/[維基百科](https://zh.wikipedia.org/wiki/%E8%8D%94%E9%8F%A1%E8%A8%98)/[YouTube](https://www.youtube.com/watch?v=4CVeszy7Y2g)/[BiliBili](https://www.bilibili.com/video/av27775868?from=search&seid=10500904748348907559)），內底的漢字選用，為後世人奠定重要的文獻基礎。更早時還有用漢字借音的方式記錄閩南語，多見於民間通俗的文學，比如歌仔冊。
+漢字是漢族及周邊民族所共用的文字，著\(tī/to/tio, 同「在」\)明朝嘉靖（公元1556年）的時候就用閩南語創作了《荔鏡記》（也叫做《陳三五娘》，參閱：[中國哲學書電子化計劃](https://ctext.org/wiki.pl?if=gb&chapter=127506)/[維基百科](https://zh.wikipedia.org/wiki/%E8%8D%94%E9%8F%A1%E8%A8%98)/[YouTube](https://www.youtube.com/watch?v=4CVeszy7Y2g)/[BiliBili](https://www.bilibili.com/video/av27775868?from=search&seid=10500904748348907559)），內底的漢字選用，為後世人奠定重要的文獻基礎。更早時還有用漢字借音的方式記錄閩南語，常見於民間通俗的文學，比如歌仔冊。
 
 從漢字借音的方式是不可取的，因為上濟\(tsē, 同「多」\)是本有其字的，用其它的字來表示失去了伊的本意，看起來也無遐好。
 
