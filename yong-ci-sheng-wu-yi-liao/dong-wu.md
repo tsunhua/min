@@ -17,7 +17,7 @@
 | 麻雀 mua3-tsia4 | 蜈蚣 ke5-kang |
 | 蛄蠅 kou-sin5 `蚜蟲` | 雞翼 koi-sip8`雞翅` |
 | iam4-pi-sung5`蟪蛄` | 火金蛄`螢火蟲` |
-| sua-le7`熊蟬` |  |
+| sua-le7`熊蟬` | 杜?蚓 too5-kun2`蚯蚓` |
 
 ## 棲所
 
