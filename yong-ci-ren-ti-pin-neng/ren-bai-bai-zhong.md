@@ -12,6 +12,8 @@
 | 外國人 gua7‑kok-lang5 `外國人` | 毋成人 m7-tsiann5-lang5`罵人不成人樣，不像話` |
 | 未成人 bue7-tsiann5-lang5 `未成年人` | 毋肖 m5-siau6 `不肖` |
 | 茨邊頭尾 tshu3-pinn-thau5-bue2 `房屋兩邊及前後，指鄰居` | 浪子 long7-tsu2 `不務正業到處遊蕩的人` |
+| 客人`客家人` | 人客`客人` |
+| 師父 sai-pe6 |  |
 
 
 
