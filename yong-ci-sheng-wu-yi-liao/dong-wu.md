@@ -16,6 +16,8 @@
 | 白鴿 peh8-kap4 | 蝠婆 pig4-po4`蝙蝠` |
 | 麻雀 mua3-tsia4 | 蜈蚣 ke5-kang |
 | 蛄蠅 kou-sin5 `蚜蟲` | 雞翼 koi-sip8`雞翅` |
+| iam4-pi-sung5`蟪蛄` | 火金蛄`螢火蟲` |
+| sua-le7`熊蟬` |  |
 
 ## 棲所
 
