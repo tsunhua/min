@@ -1,7 +1,6 @@
 # Table of contents
 
 * [前言](README.md)
-* [規範](gui-fan.md)
 
 ## 用词/基础词汇 <a id="yong-ci--ji-chu-ci-hui"></a>
 
