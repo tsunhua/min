@@ -19,6 +19,7 @@
 | 熱 juah8/jiat8 | 翕熱 hip-juah8 `悶熱` |
 | 焦燥 ta-so3 `乾燥` | 濕 sip `濕潤` |
 | 涼 liang5`涼爽` | 秋凊 tshiu-tshin3 `涼爽` |
+| 烏寒雨 ou-kuann5-hou6 `天時烏陰落寒雨` |  |
 
 ## 節氣（tseh‑khui3）
 
