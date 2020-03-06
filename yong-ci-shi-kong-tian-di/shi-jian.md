@@ -10,6 +10,7 @@
 | 大後年 tua7‑au7‑ni5 `three years from now` | 熱天時 juah8-thinn-si5 `夏天` |
 | 寒天時 kuann5-thinn-si5 `冬天` | 貴米年 kuih-bi2-ni5`荒年` |
 | 老曆 lau-lek8 `農曆` | 新曆 sin-lek8 `公曆` |
+| 凝天時 ngang5-thinn-si5`冬天` |  |
 
 ## **月**
 
