@@ -6,7 +6,7 @@
 | 虯毛`卷毛` | 旋 tsong7 `頭髮漩渦狀處` |
 | 額頭 hia2-thou5 | 坎頭 kham5-thou5`前額突出` |
 | 面 min7`臉` | 面皮`臉皮` |
-| 痣 ki3 | 鬚頭 tshiu-thau5`鬍鬚` |
+| 痣 ki3 |  |
 | 嚨喉 na5-au5`喉嚨` | 目 mak2`眼睛` |
 | 目仁 mak2-jin5`瞳仁` | 目毛 mak2-mo5`眼睫毛` |
 | 目汁 mak2-tsap`眼淚` | 鼻 phinn7 |
