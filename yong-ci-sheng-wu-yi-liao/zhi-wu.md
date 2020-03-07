@@ -38,7 +38,8 @@
 | 春菜 tshung-tshai3`长叶芥菜` | 菜花`花椰菜` |
 | 芥菜 kua3-tshai3`大芥菜` | 芥藍 keh4-na5/khah4-na5 |
 | 菜頭`白蘿蔔` | 白菜 |
-| 韭菜 |  |
+| 韭菜 ku6-tshai3 | 芫荽 ian5-sui`香菜` |
+| 芳菜 phang-tshai3`油麥菜` |  |
 
 ## 草
 

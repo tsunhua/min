@@ -28,6 +28,7 @@
 | 這 chit/chet `這` | 彼 hit/het `那` |
 | 遮 chia `這些` | 遐 hia `那些` |
 | 這地方 chet-dinn `這裡` | 彼地方 chet-dinn `那裡` |
+| 這囝 chit-kiann2`這兒` |  |
 
 其所有格由 「指示代詞+e5\(的\)」 或 「指示代詞+\(g\)ai7\(其\)」構成，羅列如下：
 
