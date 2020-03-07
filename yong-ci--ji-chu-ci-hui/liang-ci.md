@@ -11,7 +11,7 @@
 | 一碗水 tsit8-uann2-tsui2 | 一喙水 tsit8-tshui3-tsui2 `一口水` |
 | 一條弓蕉  tsit8-tiau5-king-tsio`一條香蕉` | 一本冊 tsit8-pun2-tsheh `一本書` |
 | 一支手機 tsit8-ki-thiu `一隻手機` | 一支鎖匙 tsit8-ki-so2-si5 `一把鑰匙` |
-| 一箍 / 一角銀 tsit8-khoo/tsit8-kak-gin5 `一塊錢` | 一領被 tsit8-nia2-phue7 `一席被子` |
+| 一箍 / 一個銀 tsit8-khoo/tsit8-kai5-gin5 `一塊錢` | 一領被 tsit8-nia2-phue7 `一席被子` |
 | 一個鋪 tsit8-gai7-phoo `一張床` | 一個鐘頭 tsit8-e5-tsing-thau5 `一個小時` |
 | 一副衫褲 tsit8-sann-khoo3 `一套衣服` | 一腰裙 tsit8-io-kun5 `一件裙子` |
 | 一尾魚 tsit8-bue2-hi5 `一條魚` | 一墩物件 tsit8-tun-mih8-kiann7 `一堆東西` |
