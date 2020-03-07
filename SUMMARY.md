@@ -45,7 +45,6 @@
 
 * [動物](yong-ci-sheng-wu-yi-liao/dong-wu.md)
 * [植物](yong-ci-sheng-wu-yi-liao/zhi-wu.md)
-* [生老病死](yong-ci-sheng-wu-yi-liao/sheng-lao-bing-si.md)
 * [醫療保健](yong-ci-sheng-wu-yi-liao/yi-liao-bao-jian.md)
 
 ## 用词/人群社交
