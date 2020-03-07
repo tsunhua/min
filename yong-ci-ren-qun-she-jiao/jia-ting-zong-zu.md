@@ -13,6 +13,7 @@
 | 翁 ang`丈夫` | 婦 bou2`妻子` |
 | 翁姐 ang-tsia2`夫妻` | 新婦 sim-pu6`媳婦` |
 | 大官 tua4-kuann`丈夫的父親` | 大家 tua4-ke `丈夫的母親` |
+| 外家 gua3-ke `娘家` | 轉外家 tong2-gua3-ke`回娘家` |
 | 丈人 tio-nang`岳父` | 丈人母 tio-nang-bo2`岳母` |
 | 妻舅 tshi-ku6 | 囝婿 kiann2-sai3`女婿` |
 | 伯 peh4 | 姆 m2`伯母` |
