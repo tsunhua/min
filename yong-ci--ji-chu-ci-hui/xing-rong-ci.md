@@ -7,7 +7,7 @@
 | 加減 ke1-kiam2 `多少` | 猛慢 me2-ban7 `快慢` |
 | 肥㾪 pui5-san2 `胖瘦` | 懸低/危下 kuan5-ke7 `高低` |
 | 早晏 tsa2-uann3 `早晚` | 粗、幼 tshoo, iu3 `粗細` |
-| 芳、臭 phang, tshau3 `香、臭` | 厄、易oh4-koih `困難、容易` |
+| 芳、臭 phang, tshau3 `香、臭` | 僫/惡、易oh4-koih `困難、容易` |
 | 闊、狹 khuah, eh8/ueh8 `寬、窄` | 光、暗 kng, am3 `亮、暗` |
 | 恬、吵 tiam7, tsha2 `安靜、吵鬧` | 飽、枵 pa2, iau `飽、餓` |
 | 脆、韌 tshe3, lun7 `易斷裂、不易斷裂` | 巧、戇 khiau2, gong7 `聰明、呆笨` |
