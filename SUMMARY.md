@@ -69,6 +69,7 @@
 
 ## 音韻
 
+* [調值](yin-yun/diao-zhi.md)
 * [台羅拼音](yin-yun/tai-luo-pin-yin.md)
 * [閩南拼音](yin-yun/min-nan-pin-yin.md)
 * [潮州話拼音方案](yin-yun/chao-zhou-hua-pin-yin-fang-an.md)
