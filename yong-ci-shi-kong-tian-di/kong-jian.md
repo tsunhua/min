@@ -4,7 +4,7 @@
 
 |  |  |
 | :--- | :--- |
-| 內底 lai7-te2/lai7-tue2 `裡面` | 內 lai7 `裡面；家裡` |
+| 裡底/內底 lai7-te2/lai7-tue2 `裡面` | 裡/內 lai7 `裡面；家裡` |
 | 中央 tiong-ng `中間` | 外口 gua7-khau2 `外面` |
 |  頭頂 thau5-ting2 `上面` | 頭前 thau5-tsing5 `前面` |
 | 下跤 e7-kha `下面` | 下底 e7-te2/e7-tue2 `下面` |
