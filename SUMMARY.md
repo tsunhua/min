@@ -83,6 +83,9 @@
 * [潮汕童謠](jie-zuo/chao-shan-tong-yao.md)
 * [潮汕話詩詞](jie-zuo/chao-shan-hua-shi-ci.md)
 * [諺語](jie-zuo/yan-yu.md)
+
+---
+
 * [參考](can-kao.md)
 * [問答](wen-da.md)
 
